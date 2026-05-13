@@ -1,4 +1,3 @@
-# Testcodes
 # Haunted House
 import time
 
@@ -195,5 +194,3 @@ def gameOver():
 welcome()
  
 
-
-  print("hello world")
